@@ -1,0 +1,16 @@
+.autosession.vim
+.DS_Store
+*.beam
+pkg
+erl_crash.dump
+logs
+test/include
+ebin/*.boot
+ebin/*.rel
+ebin/*.script
+*.rrd
+deps/stoplight
+include/stoplight
+*.sw?
+coverage
+rdoc
