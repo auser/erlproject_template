@@ -1,4 +1,4 @@
-== Test app
+== Template app
 
 Your app description here
 
